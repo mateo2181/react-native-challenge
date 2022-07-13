@@ -14,7 +14,7 @@ The client provide us a list of requirements that he wants to see in the app:
       - species
       - gender
       - status
-      - How many episodes the character has been part of?
+      - how many episodes the character has been part of?
 
 ## Technical considerations
 - The app should be developed using React Native (use ```create-react-native-app``` is valid).
