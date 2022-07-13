@@ -21,6 +21,7 @@ The client provide us a list of requirements that he wants to see in the app:
 - The API to consume is https://rickandmortyapi.com, feel free to choose between REST or GraphQL.
 - For styling you can use whatever you have more experience with: StyleSheet, CSS Modules, Chakra UI, etc.
 - Libraries to handle navigation and state management will be considered.
+- Consider that the app can has new features in the future, so the way the project and the files are organized is important in order to create a maintainable app.
 
 
 The task can be done forking this repository or creating a new one.
